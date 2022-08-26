@@ -3,9 +3,9 @@ body{
 }
 .container{
     background-color: #d0d0d0;
-    width: 915px;
+    width: 205px;
     height: 350px;
-    margin:auto;
+    margin: auto;
     margin-top: 20px;
     display: flex;
     flex-direction: column;
@@ -13,40 +13,41 @@ body{
 }
 
 .bloc{
-    font-size:55px;
+    font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+    margin: auto;
 }
 
 .bloc1{
     background-color: #ff7676;
-    width:320px;
-    height:295px;
+    width:92px;
+    height:90px;
+    margin: 2px;
+    margin-top: 8px;
     display: flex;
-    margin-right: 15px;
     flex-direction: column;
     justify-content: center;
 }
 
 .bloc2{
     background-color:#c2ff76;
-    width: 525px;
-    height: 125px;
+    width: 190px;
+    height: 50px;
+    margin: 2px;
+    margin-top: 8px;
     display: flex;
-    margin-bottom: 25px;
     flex-direction: column;
     justify-content: center;
 }
 
 .bloc3{
     background-color:#ff9bf7;
-    width: 250px;
-    height: 145px;
-    margin-right: 25px;
+    width: 92px;
+    height: 90px;
+    margin: 2px;
+    margin-top: 8px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -54,8 +55,10 @@ body{
 
 .bloc4a{
     background-color:#9ba4ff;
-    width: 250px;
-    height: 67.5px;
+    width: 190px;
+    height: 65px;
+    margin: 2px;
+    margin-top: 8px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -63,10 +66,11 @@ body{
 
 .bloc4b{
     background-color:#9ba4ff;
-    width: 250px;
-    height: 67.5px;
+    width: 190px;
+    height: 65px;
+    margin: 2px;
+    margin-top: 4px;
     display: flex;
-    margin-top: 10px;
     flex-direction: column;
     justify-content: center;
 }

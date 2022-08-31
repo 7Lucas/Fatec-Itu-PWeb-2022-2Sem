@@ -1,0 +1,137 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+/* bloc/column/row */
+
+.bloc11{
+    background-color: #15aabf;
+    width: 66px;
+    height: 35px;
+    margin-bottom: 5px;
+    border-style: solid;
+}
+
+.bloc12{
+    background-color: #228be6;    ;
+    width: 68px;
+    height: 35px;
+    margin-bottom: 5px;
+    border-style: solid;
+}
+
+.bloc13{
+    background-color: #be4bdb;
+    width: 70px;
+    height: 90px;
+    border-style: solid;
+}
+
+.bloc21{
+    background-color: #fe7e14;
+    width: 35px;
+    height: 182px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: solid;
+}
+
+.bloc31{
+    background-color: #fe7e14;
+    width: 80px;
+    height: 40px;
+    margin-bottom: 5px;
+    border-style: solid;
+}
+
+.bloc32{
+    background-color: #15aabf;
+    width: 60px;
+    height: 30px;
+    margin-bottom: 5px;
+    border-style: solid;
+}
+
+.bloc33{
+    background-color: #fe7e14;
+    width: 60px;
+    height: 38px;
+    margin-bottom: 5px;
+    border-style: solid;
+}
+
+.bloc34{
+    background-color: #4c6ef5;
+    width: 55px;
+    height: 40px;
+    border-style: solid;
+}
+
+.bloc41{
+    background-color: #e64980;
+    width: 84px;
+    height: 41px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+}
+
+.bloc42{
+    background-color: #82c91e;
+    width: 105px;
+    height: 30px;
+    margin-left: -15px;
+    border-style: solid;
+}
+
+.bloc43{
+    background-color: #ced4da;
+    width: 33px;
+    height: 34px;
+    margin-top: 6px;
+    margin-bottom: 8px;
+    margin-left: -15px;
+    border-style: solid;
+}
+
+.bloc44{
+    background-color: #be4bdb;
+    width: 33px;
+    height: 40px;
+    margin-left: -15px;
+    border-style: solid;
+}
+
+.bloc53{
+    background-color: #12b886;
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+}
+
+.bloc63{
+    background-color: #868e96;
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+}
+
+.bloc64{
+    background-color: #fb5151;
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+}
+
+.column{
+    display:flex;
+    flex-direction:column;
+}
+
+.row{
+    display:flex;
+    flex-direction:row;
+}
